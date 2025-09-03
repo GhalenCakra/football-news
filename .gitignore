@@ -1,0 +1,33 @@
+# Environment files
+.env*
+env/
+venv/
+*.env
+
+# Database
+db.sqlite3
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+
+# Django specific
+*.log
+*.pot
+*.py[cod]
+local_settings.py
+media/
+staticfiles/
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# JetBrains IDEs
+.idea/
+
