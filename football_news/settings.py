@@ -28,7 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = ["localhost", "127.0.0.1", "ghalen-cakra-footballnews.pbp.cs.ui.ac.id"]
 
 CSRF_TRUSTED_ORIGINS = [
-    "https://ghalen-cakra-footballnews.pbp.cs.ui.ac.id/"
+    "https://ghalen-cakra-footballnews.pbp.cs.ui.ac.id",
 ]
 
 
